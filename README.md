@@ -56,3 +56,10 @@ Finished my objectives and I’m 80% the way through my scope and started and fi
 Had a meeting with the Project Team (Jeff, Dayne and Hamish). Have recorded the meeting minutes for the meeting. I realized after the meeting that I will need to create two more objectives and add more information to some of my existing objectives. My project scope also needs to be rewritten. 
 
 **Time Taken:** 60 MINS (1 Hour).
+
+## Thursday 21th March 2019
+I re-wrote most of my proposal because of yesterday (20th March). I also did some more learning and video watching about React and Netlify.
+
+**Time Taken:** 120 MINS (2 Hours)
+
+## **Total Weekly Hours:** 360 MINS (5 Hours)
